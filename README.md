@@ -35,5 +35,5 @@ For students, registration will start on 20th of this month. Stay tuned!
 
 | Project | GitHub Link | Mentor |
 |---------|-------------|--------|
-
+|To be updated | Yep, still waiting | Still waiting |
 
