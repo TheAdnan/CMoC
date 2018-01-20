@@ -36,13 +36,13 @@ The objectives of this program are,
 ### Manuals 
 
 The mentor manual can be found [ here ](https://drive.google.com/file/d/1U3g5JEL70MWFSpdk864NgAA_21gkbUV2/view?usp=sharing).  
-The student manual will be uploaded soon.
+The student manual can be found [here](https://drive.google.com/file/d/1gMt0DGSoeRhhbGBRkNZlGRALz2ABT1zH/view?usp=sharing)
 
 ### Registration
 
-If you wish to register as a mentor, please [click here](https://docs.google.com/forms/d/e/1FAIpQLSenvqqpuBxkD6YDvHQkwRmt8vlZxmxnU54yv8-RJRbIqTBeIg/viewform).  
+Mentor Registration closed!  
 
-For students, registration will start on 20th January 2018. Stay tuned! 
+For students, register [here!](https://goo.gl/forms/Ri0VMYBDappWpC1p1) 
 
 ### List of Projects available
 
